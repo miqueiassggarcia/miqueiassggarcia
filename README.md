@@ -24,7 +24,6 @@ Me chamo Miquéias, sou um entusiasta de tecnologias, com experiência em React,
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="YARN" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/yarn-original-wordmark.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="PYTHON" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/python-original-wordmark.svg" /></a>
   <a href="https://devicon.dev" target="_blank"><img align="center" alt="C" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/c-original.svg" /></a>
-  <a href="https://devicon.dev" target="_blank"><img align="center" alt="C++" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/cplusplus-original.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="PHP" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/php-original.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="FIREBASE" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/firebase-plain-wordmark.svg" /></a>
   <a href="https://devicon.dev" target="_blank"><img align="center" alt="MYSQL" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/mysql-original-wordmark.svg" /></a>
@@ -45,7 +44,7 @@ Me chamo Miquéias, sou um entusiasta de tecnologias, com experiência em React,
 <div align="center">
   <a href="https://github.com/miqueiassggarcia/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiassggarcia&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiassggarcia&layout=compact&langs_count=10&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiassggarcia&layout=compact&langs_count=12&theme=algolia"/>
 	  
   ![snake gif](https://github.com/miqueiassggarcia/miqueiassggarcia/blob/output/github-contribution-grid-snake.svg)
 </div>
