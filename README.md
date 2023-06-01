@@ -38,8 +38,8 @@ Me chamo Miquéias, sou um entusiasta de tecnologias, com experiência em React,
 
 <div align="center">
   <a href="https://github.com/miqueiassggarcia/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiassggarcia&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiassggarcia&layout=compact&langs_count=12&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miqueiassggarcia&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miqueiassggarcia&layout=compact&langs_count=12&theme=algolia"/>
 	  
   ![snake gif](https://github.com/miqueiassggarcia/miqueiassggarcia/blob/output/github-contribution-grid-snake.svg)
 </div>
