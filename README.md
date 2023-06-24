@@ -8,16 +8,10 @@ Me chamo Miquéias, sou um entusiasta de tecnologias, com experiência em React,
 <div style="display: inline_block"><br>
   <a href="https://devicon.dev" target="_blank"><img align="center" alt="HTML5" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/html5-original-wordmark.svg" /></a>
   <a href="https://devicon.dev" target="_blank"><img align="center" alt="CCS3" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/css3-original-wordmark.svg" /></a>
-  <a href="https://devicon.dev" target="_blank"><img align="center" alt="SASS" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/sass-original.svg" /></a>
-	<a href="https://devicon.dev" target="_blank"><img align="center" alt="BOOTSTRAP" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/bootstrap-original-wordmark.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/javascript-plain.svg" /></a>
-	<a href="https://devicon.dev" target="_blank"><img align="center" alt="NODEJS" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/nodejs-original-wordmark.svg" /></a>
   <a href="https://devicon.dev" target="_blank"><img align="center" alt="TYPESCRIPT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/typescript-original.svg" /></a>
   <a href="https://devicon.dev" target="_blank"><img align="center" alt="REACT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/react-original-wordmark.svg" /></a>
   <a href="https://devicon.dev" target="_blank"><img align="center" alt="NEXT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/nextjs-original-wordmark.svg" /></a>
-	<a href="https://devicon.dev" target="_blank"><img align="center" alt="ESLINT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/eslint-original-wordmark.svg" /></a>
-	<a href="https://devicon.dev" target="_blank"><img align="center" alt="NPM" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/npm-original-wordmark.svg" /></a>
-	<a href="https://devicon.dev" target="_blank"><img align="center" alt="YARN" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/yarn-original-wordmark.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="ELIXIR" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/elixir-original-wordmark.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="PHOENIX" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/phoenix-original-wordmark.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="JAVA" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/java-original-wordmark.svg" /></a>
@@ -32,7 +26,6 @@ Me chamo Miquéias, sou um entusiasta de tecnologias, com experiência em React,
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="LINUX" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/linux-original.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="BASH" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/bash-original.svg" /></a>
 	<a href="https://devicon.dev" target="_blank"><img align="center" alt="GIT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/git-plain-wordmark.svg" /></a>
-	<a href="https://devicon.dev" target="_blank"><img align="center" alt="GITHUB" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/github-original-wordmark.svg" /></a>
 	
 ##
 
