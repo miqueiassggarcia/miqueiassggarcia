@@ -24,8 +24,8 @@ Me chamo Miquéias, sou um entusiasta de tecnologias, com experiência em React,
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="PHP" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/php-original.svg" /></a>
 
 ### Databases
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="POSTGRESQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png" target="_blank"><img align="center" alt="POSTGRESQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></a>
+<a href="https://devicon.dev" target="_blank"><img align="center" alt="POSTGRESQL" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/postgresql-plain-wordmark.svg" /></a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png" target="_blank"><img align="center" alt="CASSANDRA" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/Apache-cassandra-icon.png" /></a>
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="FIREBASE" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/firebase-plain-wordmark.svg" /></a>
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="MONGODB" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/mongodb-original-wordmark.svg" /></a>
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="SQLITE" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/sqlite-original-wordmark.svg" /></a>
