@@ -1,6 +1,4 @@
-### Olá 👋
-
-Me chamo Miquéias, sou um entusiasta de tecnologias, com experiência em React, React Native e na área de web no geral. Cursando Ciências da Computação na UEPB.
+Sou um entusiasta de tecnologias, com experiência em React, React Native e na área de web no geral. Cursando Ciências da Computação na UEPB.
 
 <!--[![Linkedin: miqueias](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miqueiasgarcia/)](https://www.linkedin.com/in/miqueias)-->
 
