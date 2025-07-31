@@ -29,10 +29,6 @@ Sou um entusiasta de tecnologias, com experiÃªncia em React, React Native e na Ã
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="BASH" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/bash-original.svg" /></a>
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="GIT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/git-plain-wordmark.svg" /></a>
 
-### Mobile
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="FLUTTER" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="ANDROID-STUDIO" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
-
 ##
 
 <div align="center">
