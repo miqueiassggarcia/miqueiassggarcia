@@ -5,10 +5,7 @@ Sou um entusiasta de tecnologias, com experiÃªncia em React, React Native e na Ã
 ## âš¡ Tecnologias usadas
 <div style="display: inline_block">
 
-### WEB
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="HTML5" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/html5-original-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="CCS3" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/css3-original-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/javascript-plain.svg" /></a>
+### Main frameworks
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="REACT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/react-original-wordmark.svg" /></a>
 
 ### Main programming languages
@@ -19,15 +16,11 @@ Sou um entusiasta de tecnologias, com experiÃªncia em React, React Native e na Ã
 
 ### Databases
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="POSTGRESQL" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/postgresql-plain-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="FIREBASE" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/firebase-plain-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="MONGODB" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/mongodb-original-wordmark.svg" /></a>
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="SQLITE" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/sqlite-original-wordmark.svg" /></a>
 
 ### Environment technologies
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="DOCKER" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/docker-original-wordmark.svg" /></a>
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="LINUX" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/linux-original.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="BASH" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/bash-original.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="GIT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/git-plain-wordmark.svg" /></a>
 
 ##
 
