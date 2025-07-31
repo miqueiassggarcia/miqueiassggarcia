@@ -7,6 +7,8 @@ Sou um entusiasta de tecnologias, com experiÃªncia em React, React Native e na Ã
 
 ### Main frameworks
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="REACT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/react-original-wordmark.svg" /></a>
+<a href="https://devicon.dev" target="_blank"><img align="center" alt="ANGULAR" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/angular-original-wordmark.svg" /></a>
+<a href="https://devicon.dev" target="_blank"><img align="center" alt="SPRING BOOT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/spring-original-wordmark.svg" /></a>
 
 ### Main programming languages
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="TYPESCRIPT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/typescript-original.svg" /></a>
@@ -21,6 +23,7 @@ Sou um entusiasta de tecnologias, com experiÃªncia em React, React Native e na Ã
 ### Environment technologies
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="DOCKER" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/docker-original-wordmark.svg" /></a>
 <a href="https://devicon.dev" target="_blank"><img align="center" alt="LINUX" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/linux-original.svg" /></a>
+<a href="https://devicon.dev" target="_blank"><img align="center" alt="AWS" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/amazonwebservices-original-wordmark.svg" /></a>
 
 ##
 
