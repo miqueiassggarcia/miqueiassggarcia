@@ -1,34 +1,73 @@
-Sou um entusiasta de tecnologias, com experiência em React, React Native e na área de web no geral. Cursando Ciências da Computação na UEPB.
+<p align="right">
+  🌎 <a href="./README_EN.md">English version</a>
+</p>
 
-<!--[![Linkedin: miqueias](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miqueiasgarcia/)](https://www.linkedin.com/in/miqueias)-->
+## 👋 Sobre mim
 
-## ⚡ Tecnologias usadas
+Sou entusiasta de tecnologia, com foco em **desenvolvimento frontend e full stack**, possuindo experiência prática com **Angular, React e aplicações web modernas**.
+
+Sou **formado em Ciência da Computação**, com interesse em arquitetura de software, boas práticas de desenvolvimento, performance, escalabilidade e soluções orientadas a problemas reais.
+
+## 📫 Contact
+
+- 📧 Email: [`mglucenalucena@gmail.com`](https://mail.google.com/mail/?view=cm&fs=1&to=mglucenalucena@gmail.com)
+- 💼 LinkedIn: [`Linkedin`](https://www.linkedin.com/in/miquéias-garcia-14070a225)
+<!-- - 🌐 Portfólio: [`Portifólio`](https://miqueiassggarcia.github.io/My_resume/) -->
+
+<!-- ## 📌 Projetos em destaque
+
+> Alguns projetos desenvolvidos com foco em aprendizado prático, arquitetura e aplicação de boas práticas.
+
+🔹 **Projeto 1 – Nome do Projeto**  
+Descrição curta do problema resolvido, tecnologias utilizadas e objetivo principal.  
+🔗 Repositório: `link_aqui`  
+🛠️ Stack: `React | Node.js | PostgreSQL`  
+
+---
+
+🔹 **Projeto 2 – Nome do Projeto**  
+Descrição curta do problema resolvido, tecnologias utilizadas e objetivo principal.  
+🔗 Repositório: `link_aqui`  
+🛠️ Stack: `Angular | Spring Boot | Docker`  
+
+---
+
+🔹 **Projeto 3 – Nome do Projeto**  
+Descrição curta do problema resolvido, tecnologias utilizadas e objetivo principal.  
+🔗 Repositório: `link_aqui`  
+🛠️ Stack: `React Native | Firebase`   -->
+
+
+## ⚡ Tecnologias e Ferramentas
+
 <div style="display: inline_block">
 
-### Main frameworks
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="REACT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/react-original-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="ANGULAR" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/angular-original-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="SPRING BOOT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/spring-original-wordmark.svg" /></a>
+### 🚀 Frameworks e Bibliotecas
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original-wordmark.svg" />
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
-### Main programming languages
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="TYPESCRIPT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/typescript-original.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/javascript-plain.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="JAVA" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/java-original-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="PYTHON" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/python-original-wordmark.svg" /></a>
+### 🧠 Linguagens
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
-### Databases
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="POSTGRESQL" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/postgresql-plain-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="SQLITE" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/sqlite-original-wordmark.svg" /></a>
+### 🗄️ Bancos de Dados
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 
-### Environment technologies
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="DOCKER" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/docker-original-wordmark.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="LINUX" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/linux-original.svg" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="center" alt="AWS" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/amazonwebservices-original-wordmark.svg" /></a>
+### ☁️ Infraestrutura
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-##
+</div>
+
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/miqueiassggarcia/">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miqueiassggarcia&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miqueiassggarcia&layout=compact&langs_count=12&theme=algolia"/>
 </div>
